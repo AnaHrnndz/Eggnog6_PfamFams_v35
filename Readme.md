@@ -1,6 +1,8 @@
 # 08/08/2022
+- Move to CBGP clust
 - Compare Eggnog6-PfamFams vs Eggnog6 OGs at Euk, Bact, Arq level
 - Script for compare: OGs_vs_PfamFams.py
+
 
 
 # 05/08/2022
